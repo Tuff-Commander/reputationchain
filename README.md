@@ -17,3 +17,6 @@ npm install
 # Update CONTRACT_ADDRESS in src/App.js with deployed address
 npm start
 ```
+
+LIVE APP
+Try it here (https://reputationchain.vercel.app/)
